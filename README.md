@@ -1,4 +1,4 @@
-# Realtime Data Streaming | Data Engineering Project
+# Simple Operating System | OS Assignment
 
 ## Introduction
 
